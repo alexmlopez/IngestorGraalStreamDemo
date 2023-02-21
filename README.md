@@ -1,2 +1,2 @@
-# IngestorGraalStreamDemo
-Initial ScaleiQ Stream Ingestor Demo
+# ScaleiQ-Ingestor-StreamDemo
+
