@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/build/
+/IngestorOpenSearchDemo/out/
+/IngestorOpenSearchDemo/out/production/classes/
+/out/
+/out/production/classes/
